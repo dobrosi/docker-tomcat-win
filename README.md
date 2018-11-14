@@ -7,4 +7,6 @@ docker build -t tomcat-win .
 
 - Run
 
+Don't forget interactive mode (-it switch).
+
 docker run -it -p 8080:8080 tomcat-win
