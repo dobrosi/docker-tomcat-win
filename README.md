@@ -1,2 +1,2 @@
 # docker-tomcat-win
-Tomcat8 Docker images for idiot Windows.
+Tomcat8 Docker image for idiot Windows.
